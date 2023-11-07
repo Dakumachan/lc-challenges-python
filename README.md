@@ -6,3 +6,10 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 
 `nb_challenge1_python.ipynb`: notebook com enunciado e solução passo a passo.<br>
 `script_solution1.py`: script com a solução do problema. 
+
+##Gerando mudanças no repositorio
+C:\Users\Usuario\Documents\github-testecmd\lc-challenges-python git status
+
+# Salvando modificações no Git
+
+
